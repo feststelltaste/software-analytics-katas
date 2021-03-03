@@ -140,3 +140,11 @@ A list of missing user permissions is needed to show which reals users with whic
 - There is a log file named [`datasets/access/calls.log`](https://raw.githubusercontent.com/feststelltaste/software-analytics-katas-de/master/datasets/access/calls.log) from InsurHappy, which provides an overview of the services called in the past week.
 - Furthermore, there is a so called "Access Matrix" ([`datasets/access/access_matrix.xlsx`](https://raw.githubusercontent.com/feststelltaste/software-analytics-katas-de/master/datasets/access/access_matrix.xlsx)) which indicates which users are allowed to call which COBOL routines.
 - In addition, a list of real names of users is available ([`datasets/access/user_list.csv`](https://raw.githubusercontent.com/feststelltaste/software-analytics-katas-de/master/datasets/access/user_list.csv) to break down user IDs
+
+# What's Next?
+Did you find these challenges interesting? I would be happy if you leave some feedback here as an [issue](https://github.com/feststelltaste/software-analytics-katas/issues).
+
+ I hope to see you at a conference or meetup to talk about it soon! You can see where I am [here](https://www.innoq.com/en/staff/markus-harrer/). I also organize [Software Analytics workshops](https://www.innoq.com/en/staff/markus-harrer/) from time to time where we take a deeper look at the data-driven analysis of software systems. [On my blog](https://www.feststelltaste.de/), I write about my analyses as well.
+
+ _Markus Harrer_  
+ [@feststelltaste](https://twitter.com/feststelltaste)
