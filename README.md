@@ -15,7 +15,7 @@ Status: beta, Feedback and Pull Requests very welcome!
 
 - [Motivation Problem](#motivation-problem)
 - [A Long Ping Pong Along](#a-long-ping-pong-along)
-- [Tests just Code, too](#tests-just-code-too)
+- [Tests are Code, too](#tests-are-code-too)
 - [Under the hood](#under-the-hood)
 - [Access Denied](#access-denied)
  
@@ -77,7 +77,7 @@ An analysis of the log files about the failure situations at the microservices s
   - Possible header string: `"timestamp", "status", "method", "url", "ms"`.
 
 
-## Tests just Code, too
+## Tests are Code, too
 Data source: version control system  
 Difficulty: medium  
 
