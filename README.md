@@ -3,6 +3,7 @@ Small exercises designed to train analytical thinking and the use of data-driven
 
 _If you want to get started with Python & pandas right away, you can do so by clicking this button right now!_ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/feststelltaste/software-analytics-katas)
 
+**Status: Beta**, Feedback and Pull Requests very welcome!
 
 ## Motivation Problem
 Data source: Stack Overflow  
