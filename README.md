@@ -6,7 +6,7 @@ _If you want to get started with Python & pandas right away, you can do so by cl
 
 ## Motivation Problem
 Data source: Stack Overflow  
-Difficulty: simple  
+Difficulty: easy  
 
 ### Problem Context
 Developers in a software company use a version control system (VCS for short) called CVS (Concurrent Versions System).
