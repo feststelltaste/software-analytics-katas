@@ -5,7 +5,13 @@ _If you want to get started with Python & pandas right away, you can do so by cl
 
 Status: beta, Feedback and Pull Requests very welcome!
 
-**Katas Overview**
+**About "katas"**
+
+> Katas are intended as a small-group (3-5 people) exercise, usually as part of a larger group (4-10 groups are ideal), each of whom is doing a different kata. A moderator keeps track of time, assigns katas (or allows this website to choose one randomly), and acts as the facilitator for the exercise.
+>
+> -- <cite>Adapted from [Ted Neward](http://www.architecturalkatas.com/)</cite>
+
+**Software Analytics Katas Overview**
 
 - [Motivation Problem](#motivation-problem)
 - [A Long Ping Pong Along](#a-long-ping-pong-along)
