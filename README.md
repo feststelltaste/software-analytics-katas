@@ -138,7 +138,7 @@ Visualize the respective amounts of code for the old and new libraries over time
 
 
 ## Access Denied
-Data sources: various kind of static and dynamic data
+Data sources: various kind of static and dynamic data  
 Difficulty: challenging  
 
 ### Problem Context
