@@ -1,7 +1,7 @@
 # Software Analytics Katas
 Small exercises designed to train analytical thinking and the use of data-driven software analysis.
 
-_If you want to get started with Python & pandas right away, you can do so by clicking this button right now!_ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/feststelltaste/software-analytics-katas)
+_If you want to get started with Python & pandas right away, you can do so by clicking this button right now!_ [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/feststelltaste/software-analytics-katas/HEAD?urlpath=%2Fnotebooks%2F)
 
 Status: beta, Feedback and Pull Requests very welcome!
 
